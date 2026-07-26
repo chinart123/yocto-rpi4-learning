@@ -12,15 +12,15 @@
 
 ### 2. Kernel Development
 - Wrote a custom **Kernel Module** for LED blinking.
-- [cite_start]Implemented and handled **Button interrupts**[cite: 1, 2].
-- [cite_start]Fixed critical **GPL License conflicts** in the `led-driver` recipe[cite: 2, 7].
+- Implemented and handled **Button interrupts**.
+- Fixed critical **GPL License conflicts** in the `led-driver` recipe.
 
 ### 3. Troubleshooting & Automation
-- [cite_start]Resolved **disk space and RAM exhaustion** issues during the build process[cite: 9, 10, 11].
+- Resolved **disk space and RAM exhaustion** issues during the build process.
 - Created **automation scripts (.sh)** to streamline SD card flashing.
-- [cite_start]Fixed **mcopy/boot.scr missing** errors by rebuilding boot files[cite: 12, 21].
+- Fixed **mcopy/boot.scr missing** errors by rebuilding boot files.
 
 ---
 
 ## 📂 Project Structure Note
-*This repo is a collection of my university memories, including all technical logs and error-fix notes I encountered during the 2-month nightmare with BitBake.*
+*This repo is a collection of my university memories, including all technical logs and error-fix notes I encountered during the 2-month journey with BitBake.*
